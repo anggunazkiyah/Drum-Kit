@@ -23,4 +23,4 @@ Click on the drum buttons or press the corresponding keys on your keyboard to pl
 ## 🎹 How to Play
 1. Clone the repository:
    ```bash
-   https://anggunazkiyah.github.io/Drum-Kit/
+   git clone https://github.com/anggunazkiyah/Drum-Kit.git
